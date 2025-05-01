@@ -1,6 +1,4 @@
-# Teste Fortes Tecnologia - Sistema Acadêmico Simples
-
-Este é um projeto de exemplo que implementa um sistema básico para gerenciamento de Cursos, Alunos e Matrículas, desenvolvido como parte de um teste ou demonstração para a Fortes Tecnologia.
+# Teste Fortes Tecnologia 
 
 O sistema consiste em:
 
